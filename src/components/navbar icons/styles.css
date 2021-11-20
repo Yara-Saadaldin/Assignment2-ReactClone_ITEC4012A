@@ -1,0 +1,56 @@
+.navbar-icons {
+    margin-top: -66px;
+    position: absolute;
+    right: 0;
+    margin-right: 3%;
+}
+
+.navbar-icons ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: flex-start;
+}
+
+.searchBar button {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 23px;
+    margin-top: 2px;
+}
+
+.notifications button {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 23px;
+    margin-left: 18px;
+    margin-top: 2px;
+}
+
+.kidsLink li {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    color: #e5e5e5;
+    margin-left: 18px;
+    margin-top: 8px;
+}
+
+.navbar-icons img {
+    display: flex;
+    justify-content: flex-start;
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    border-radius: 5px;
+    margin-left: 13px;
+}
+
+.Dropdown button {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 20px;
+    margin-top: 8px;
+}

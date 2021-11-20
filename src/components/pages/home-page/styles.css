@@ -1,0 +1,11 @@
+.TitleCards {
+    display: flex;
+    justify-content: flex-start;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 21px;
+    color: #e5e5e5;
+    font-weight: bold;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 50px;
+}
