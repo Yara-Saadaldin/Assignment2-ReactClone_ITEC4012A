@@ -26,16 +26,17 @@ export const Billboard = () => {
                     <div className="playbtn">
                         <GrPlayFill/>
                     </div>
-                    Play
+                    <li>Play</li>
                 </button>
                 <button className="MoreInfo-button">
                     <div className="infobtn">
                         <CgInfo/>
                     </div>
-                    More Info
+                    <li>
+                        More Info
+                    </li>
                 </button>
             </div>
-
         </div>
     )
 }

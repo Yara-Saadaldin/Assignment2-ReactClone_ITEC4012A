@@ -32,7 +32,7 @@ export const Footer = () => {
             <div className="button">
                 Service Code
             </div>
+
         </div>
     );
-
 }
